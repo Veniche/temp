@@ -1,0 +1,14 @@
+10:08:41	 From  Dosen : ZCZC ON
+10:08:42	 From  Dodo 1234567890 : ZCZC dodo J1
+10:08:48	 From  Didi Suridi - 1234567892 : ZCZC didisuridi J1
+10:08:49	 From  Garbage : Blah Blah Blah
+10:08:52	 From  Budi Suribu P. - 1234567894 : ZCZC budis J1
+10:08:52	 From  Abu Surabu : ZCZC abus J1
+10:09:01	 From  Dosen : ZCZC ON
+10:09:02	 From  Garbage : Tanya tanya
+10:09:03	 From  Garbage : Tanya tanya lagi
+10:08:06	 From  Abu Surabu : ZCZC abus J2
+10:09:07	 From  Garbage : Tanya tanya sekalian
+10:10:48	 From  Didi Suridi - 1234567892 : ZCZC didisuridi J2
+10:10:52	 From  Dodo 1234567890 : ZCZC dodo J2
+10:11:02	 From  Budi Suribu P. - 1234567894 : ZCZC budis J2

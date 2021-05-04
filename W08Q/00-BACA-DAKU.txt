@@ -1,0 +1,38 @@
+Deadline: Hari ini (Selasa) jam 08:00
+PERHATIAN: JANGAN ATTACH berkas f1.txt, f2.txt, f3.txt, f4.txt pada email, ya!
+
+Email address: operatingsystems@vlsm.org
+Email Subject: OS211QUIZ
+========================
+
+
+Quiz: W08 Q02
+Segera kirim hasil "chktoken berhasil" jika berhasil membaca berkas 00-BACA-DAKU.txt ini!
+
+Contoh jawaban email: ZCZC W08 Q02 cbkadal cbkadal 0735-E613
+
+
+
+Quiz: W08 Q03
+Buat sebuah script satu baris, yang hanya meloloskan baris berkas yang ada "ZCZC".
+Lihat berkas f1.txt (input) dan f2.txt (output).
+
+Contoh jawaban email: ZCZC W08 Q03 cbkadal cat f1.txt > f2.txt
+
+
+
+Quiz: W08 Q04
+Buat sebuah script satu baris, yang akan menghapus bagian awal baris hingga tanda "ZCZC".
+Lihat contoh berkas f2.txt (input) dan f3.txt (output)
+
+Contoh jawaban email: ZCZC W08 Q04 cbkadal cat f2.txt > f3.txt
+
+
+
+Quiz: W08 Q05
+Buat sebuah script satu baris, yang hanya menampilkan 2 baris pertama setelah "ZCZC ON".
+Lihat contoh berkas f3.txt (input) dan f4.txt (output)
+
+Contoh jawaban email: ZCZC W08 Q05 cbkadal cat f3.txt > f4.txt
+
+
